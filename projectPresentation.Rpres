@@ -1,0 +1,38 @@
+LEGO Sets Summary
+========================================================
+author: Aaron Thor
+date: 12 Oct 2015
+
+Overview
+========================================================
+
+For more details on authoring R presentations click the
+**Help** button on the toolbar.
+
+Between the years 1950 and 2015:
+- There are a total of 13,299 sets
+- Out of which 2,608 are custom sets consisting of 3,126,530 parts
+- Total number of theme records is 102
+
+Supported Functionalities
+========================================================
+
+Now you can visualize summary of the datasets:
+- # themes per year
+- average # pieces per theme
+- # piece per year
+- average # piece per year
+
+
+Sample Plot
+========================================================
+![Sample Plot:](samplePlot.png)
+
+
+
+Fifth Slide
+========================================================
+
+For more info:
+- visit link on shinyapps.io: https://ratz.shinyapps.io/project
+- code on Github: https://github.com/aaronthor/developingDataProducts
